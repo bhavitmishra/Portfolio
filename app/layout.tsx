@@ -11,6 +11,9 @@ export const metadata: Metadata = {
     title: "Bhavit Mishra — Full-Stack Developer",
     description: "Building products end-to-end — from database schema to pixel-perfect UI.",
     type: "website",
+    
+  }, icons: {
+    icon: "/favicon.svg",
   },
 };
 
